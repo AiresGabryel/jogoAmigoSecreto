@@ -28,6 +28,8 @@ Este projeto foi desenvolvido com as seguintes tecnologias, focando nos fundamen
 
 ## 🎯 Como Usar
 
+* Acesse diretamente pelo [Vercel](https://jogo-amigo-secreto-five.vercel.app/)
+
 1.  **Clone o Repositório:**
     ```bash
     git clone [https://github.com/AiresGabryel/challenge-amigo-secreto_pt.git](https://github.com/AiresGabryel/challenge-amigo-secreto_pt.git)
